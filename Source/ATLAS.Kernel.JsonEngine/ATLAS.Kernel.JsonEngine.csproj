@@ -5,6 +5,7 @@
         <LangVersion>latestmajor</LangVersion>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
         <RootNamespace>ATLAS.Kernel.JsonEngine</RootNamespace>
         <AssemblyName>ATLAS.Kernel.JsonEngine</AssemblyName>
         <SolutionDir>$(MSBuildThisFileDirectory)</SolutionDir>
